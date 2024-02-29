@@ -1,0 +1,325 @@
+﻿sample id,machine id,diameter[inch],gauge[needles/inch],machine type,fabric type,iplik 1 numarasi[x m/1gr],yarn 1 make,yarn 1 type,iplik 1 uzunlugu[cm],Iplik 1 beslenme orani[%],iplik 2 numarasi[x m/1gr],yarn 2 make,yarn 2 type,iplik 2 uzunlugu[cm],iplik 2 beslenme orani[%],iplik 3 numarasi[x m/1gr],yarn 3 make,yarn 3 type,iplik 3 uzunlugu[cm],iplik 3 beslenme orani,machine caliber,machine speed[rpm],fabric property[roll?],total input yarn[kg],fabric weight[kg],total revolutions per roll ,fabric roll weight,roll width[cm],GSM[gr/m2]
+1,29,32,22,single jersey,single,30/1,ARKAN,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,,210,130.7
+2,5,32,20,single jersey,fleece,30/1,KIPAS,combed,44,45,70,TEKSMAR,polyester,31.5,12,12/1,KUTUKUOGLU,open end-cotton-polyester,17,43,plain,22,tube with line,,,,,210,236.7
+3,17,36,17,double jersey,ribbed,28/1,ARKAN,combed,53,100,,,,,,,,,,,ribbed,18,tube,,,,,110,148.3
+4,17,36,17,double jersey,ribbed,20/1,LIBAS,combed,62,97,40,HUAFON,lycra,,3,,,,,,ribbed,18,tube with line,,,,,200,304.3
+5,32,32,28,single jersey,single,30/1,ARKAN,combed,28,100,,,,,,,,,,,single,26,tube with line,,,,,210,122.7
+6,30,32,22,single jersey,single,30/2,KIPAS,combed,36,100,,,,,,,,,,,single,26,open width,,,,,230,220.5
+7,33,32,28,single jersey,single,40/1,NIPAS,combed,28.5,47.5,40/1,NIPAS,combed,29,47.5,20,TEKSMAR,lycra,,5,S/Z twist single,24,open width,,,,,180,150.4
+8,6,32,20,single jersey,fleece,30/1,KIPAS,combed,44,45,70,TEKSMAR,polyester,29.5,12,12/1,KUTUKUOGLU,open end-cotton-polyester,17,43,plain,22,tube with line,444,426.25,,,204,253.1
+9,18,36,18,double jersey,ribbed,30/2,KIPAS,combed,72,98,70,HUAFON,lycra,,2,,,,,,ribbed,17,tube with line,,,,,140,373.5
+10,19,36,18,double jersey,ribbed,30/2+30/1,KIPAS,combed,27,96,70,HUAFON,lycra,,4,,,,,,interlock 2*1,17,tube,,,,,150,308.3
+11,31,32,28,single jersey,single,30/1,ARKAN,combed,28,100,,,,,,,,,,,single,26,tube with line,,,,,210,127.7
+12,34,32,28,single jersey,single,28/1,LIBAS,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,,208,137.5
+13,28,32,28,single jersey,single,30/1,ARKAN,combed,28,100,,,,,,,,,,,single,26,tube with line,,,,,216,127.7
+14,7,32,20,single jersey,fleece,30/1,KIPAS,combed,44,33,30/1,KIPAS,combed,41,29,10/1,SIRIKCIOGLI,carded,16,38,plain,22,tube with line,,,,,225,245
+15,7,32,20,single jersey,fleece,30/1,KIPAS,combed,44,33,30/1,KIPAS,combed,37.5,29,10/1,SIRIKCIOGLI,carded,17,38,diagonal,22,tube with line,,,,,230,283.7
+16,6,32,20,single jersey,fleece,30/1,KIPAS,combed,44,45,70,TEKSMAR,polyester,31.5,12,12/1,KUTUKUOGLU,open end-cotton-polyester,17,43,plain,22,tube with line,,,,,220,237.3
+17,17,36,17,double jersey,ribbed,30/1,LIBAS,combed,56,98,30,ANKAR,lycra,,2,,,,,,ribbed,18,tube with line,,,,,190,190.6
+18,4,32,20,single jersey,fleece,20/2,NIPAS,combed,48,100,,,,,,,,,,,single,22,tube with line,101.3,96.45,,,231,280
+19,30,32,22,single jersey,single,30/2,KIPAS,combed,38,100,,,,,,,,,,,single,26,open width,,,,,220,202.1
+20,1,32,20,single jersey,fleece,30/1,KIPAS,combed,44.5,36,70,TEKSMAR,polyester,36,10,10/1,NIPAS,open end-cotton-polyester,22,54,plain,22,tube with line,,,,,218,271.9
+21,7,32,20,single jersey,fleece,30/1,NOPAS,combed-cotton-polyester,44,41,70,KARESI,polyester,31.5,12,10/1,LIBAS,open end-cotton-polyester,17,47,diagonal,22,tube with line,,,,,208,257.6
+22,34,32,28,single jersey,single,30/1,ISKUR,gray melange 60%combed 40%polyester,26.5,100,,,,,,,,,,,single,26,tube with line,,,,,204,126.5
+23,4,32,20,single jersey,fleece,20/2,LIBAS,combed,48,100,,,,,,,,,,,single,22,tube with line,,,,,216,259.2
+24,19,36,18,double jersey,ribbed,30/2+30/1,NOPAS,ring/melange,27.5,98,40,HUAFON,lycra,,2,,,,,,interlock 2*1,17,tube,,,,,165,285
+25,17,36,17,double jersey,ribbed,30/2,KIPAS,combed,72,97,40,HUAFON,lycra,,3,,,,,,ribbed,20,tube with line,,,,,226,313
+26,17,36,17,double jersey,ribbed,30/2,LIBAS,combed,72,97,40,HUAFON,lycra,,3,,,,,,ribbed,20,tube with line,,,,,224,332
+27,30,32,22,single jersey,single,24/1,NIPAS,combed,34,64,20/1,SIRIKCIOGLI,carded,,32,40,HUAFON,lycra,,4,plain,26,open width,,,,,192,285
+28,19,36,18,double jersey,ribbed,30/2+30/1,NOPAS,combed-cotton-polyester,27,98,40,HUAFON,lycra,,2,,,,,,interlock 2*1,17,tube,,,,,165,268
+29,19,36,18,double jersey,ribbed,30/2,KIPAS,combed,27,98,30,ANKAR,lycra,,2,,,,,,interlock 2*1,17,tube,,,,,196,313
+30,19,36,18,double jersey,ribbed,28/2,LIBAS,combed,27,98,30,ANKAR,lycra,,2,,,,,,interlock 2*1,17,tube,,,,,195,361
+31,7,32,20,single jersey,fleece,28/1,NOPAS,ring/melange,45,40,70,TEKSMAR,polyester,31.5,12,10/1,LIBAS,open end-cotton-polyester,18,48,diagonal,22,tube with line,,,,,214,268
+32,28,32,28,single jersey,single,30/1,KIPAS,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,,203,127
+33,17,36,17,double jersey,ribbed,30/1,ARINC,combed,52,100,,,,,,,,,,,ribbed,18,tube with line,,,,,240,147
+34,29,32,22,single jersey,single,30/1,ARKAN,combed,27,100,,,,,,,,,,,single,27,tube with line,,,,,189,124
+35,28,32,28,single jersey,single,30/1,LIBAS,combed,27,100,,,,,,,,,,,single,26,tube with line,,,,,204,132
+36,31,32,28,single jersey,single,28/1,MODASN,vortex gray melange,28,100,,,,,,,,,,,single,26,tube with line,,,,,204,132
+37,30,32,22,single jersey,single,30/2,LIBAS,combed,38,100,,,,,,,,,,,single,26,open width,,,,,204,201
+38,21,32,22,single jersey,fleece,30/1,LIBAS,combed,44.5,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKUOGLU,open end-cotton-polyester,22,49,pique,21,tube with line,304.5,300.35,,,216,268
+39,23,32,22,single jersey,fleece,30/1,LIBAS,combed,46,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKUOGLU,open end-cotton-polyester,21,49,pique,21,tube with line,,,,,220,273
+40,24,32,22,single jersey,fleece,30/1,LIBAS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKUOGLU,open end-cotton-polyester,22,49,pique,21,tube with line,,,,,220,296
+41,22,32,22,single jersey,fleece,30/1,LIBAS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKUOGLU,open end-cotton-polyester,22,49,pique,21,tube with line,,,,,220,271
+42,30,32,22,single jersey,single,30/2,LIBAS,combed,40,100,,,,,,,,,,,single,26,open width,201.05,194.25,,,216,190
+43,17,36,17,double jersey,ribbed,28/1 ,MODASN,vortex gray melange,58,98,30,ANKAR,lycra,,2,,,,,,ribbed,18,tube with line,,,,,204,185
+44,17,36,17,double jersey,ribbed,28/1,MODASN,vortex gray melange,58,98,30,ANKAR,lycra,,2,,,,,,ribbed,18,tube with line,,,,,198,191
+45,17,36,17,double jersey,ribbed,30/1,LIBAS,combed,54,98,40,HUAFON,lycra,,2,,,,,,ribbed,18,tube with line,,,,,192,194
+46,2,32,20,single jersey,fleece,30/1,LIBAS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKUOGLU,open end-cotton-polyester,22,49,pique,22,tube with line,,,,,220,276
+47,32,32,28,single jersey,single,30/1,LIBAS,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,,202,136
+48,28,32,28,single jersey,single,28/1,LIBAS,combed,27,100,,,,,,,,,,,single,26,tube with line,,,,,201,137.3
+49,5,32,20,single jersey,fleece,28/1,LIBAS,combed,44,38,70,TEKSMAR,polyester,31.5,10,10/1,NIPAS,open end-cotton-polyester,17,52,plain,22,tube with line,,,,,218,271.5
+50,18,36,18,double jersey,ribbed,30/2,LIBAS,combed,73,95,70,HUAFON,lycra,,5,,,,,,ribbed,17,tube with line,,,,,147,360.2
+51,31,32,28,single jersey,single,28/1,MODASN,vortex gray melange,28,100,,,,,,,,,,,single,26,tube with line,,,,,226,133.2
+52,17,36,17,double jersey,ribbed,30/1,LIBAS,combed,55,98,40,HUAFON,lycra,,2,,,,,,ribbed,18,tube with line,,,,,202,201.7
+53,17,36,17,double jersey,ribbed,28/1,LIBAS,combed,58,98,30,ANKAR,lycra,,2,,,,,,ribbed,18,tube with line,,,,,203,203.1
+54,7,32,20,single jersey,fleece,30/1 ,NOPAS,combed-cotton-polyester,45,41,70,KARESI,polyester,31.5,11,10/1,LIBAS,open end-cotton-polyester,18,48,diagonal,22,tube with line,,,,,214,265.4
+55,28,32,28,single jersey,single,30/1,LIBAS,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,,227,130.2
+56,17,36,17,double jersey,ribbed,27/1,NOPAS,combed,58,98,30,ANKAR,lycra,,2,,,,,,ribbed,18,tube with line,,,,,196,203.1
+57,19,36,18,double jersey,ribbed,30/1,LIBAS,combed,27,97,30,ANKAR,lycra,,3,,,,,,interlock 2*1,17,tube,,,,,184,342.2
+58,17,36,17,double jersey,ribbed,30/1,ARKAN,combed,72,98,40,HUAFON,lycra,,2,,,,,,ribbed,17,tube with line,,,,,216,307
+59,19,36,18,double jersey,ribbed,28/2 ,MODASN,vortex gray melange,27,98,30,ANKAR,lycra,,2,,,,,,interlock 2*2,17,tube,,,,,172,330.7
+60,29,32,22,single jersey,single,30/1,NIPAS,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,,202,128.4
+61,31,32,28,single jersey,single,30/1,SIRIKCIOGL,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,,212,123
+62,31,32,28,single jersey,single,30/1,GNT ,vortex gray melange,27.5,100,,,,,,,,,,,single,26,tube with line,,,,,212,123
+63,31,32,28,single jersey,single,30/1,NOPAS,combed-cotton-polyester,28,100,,,,,,,,,,,single,26,tube with line,,,,,220,132.7
+64,17,36,17,double jersey,ribbed,30/2,ARKAN,combed,72,98,40,HUAFON,lycra,,2,,,,,,ribbed,20,tube with line,,,,,230,312.3
+65,5,32,20,single jersey,fleece,28/1,MODASN,vortex gray melange,44,42,70,TEKSMAR,polyester,28,10,10/1,NIPAS,open end-gray melange ,17,48,plain,21,tube with line,,,,,214,298.9
+66,17,36,17,double jersey,ribbed,30/2,NIPAS,combed,72,97,40,HUAFON,lycra,,3,,,,,,ribbed,20,tube with line,415.6,399.1,,,226,311
+67,G1,26,28,single jersey,single,26/1,NIPAS,combed,25.5,100,,,,,,,,,,,lacoste,,tube with line,,,,,212,179
+68,K1,30,26,single jersey,single,24/1,GNT ,vortex gray melange,29.5,100,,,,,,,,,,,lacoste,,tube with line,,,,,200,146.4
+69,29,32,22,single jersey,single,27/1,NOPAS,combed,28,100,,,,,,,,,,,single,26,tube with line,,,,,224,143.1
+70,18,36,18,double jersey,ribbed,30/1,MARTEKS,vortex gray melange50% polyester50%,72,76,70/40,TEKSMAR,ecru guipure,48,20,70,HUAFON,lycra,,4,guipure ribbed,12,tube with line,,,,,192,373.5
+71,32,32,28,single jersey,single,40/1,NIPAS,combed,29,94,20,TEKSMAR,lycra,,6,,,,,,single,26,open width,,,,,182,126
+72,33,32,28,single jersey,single,40/1,NIPAS,combed,29,47.5,40/1,NIPAS,combed,,47.5,20,TEKSMAR,lycra,,5,S/Z twist single,26,open width,,,,,200,164
+73,30,32,22,single jersey,single,24/1,NAZAR,combed,34,64,20/1,NIPAS,combed,,32,40,HUAFON,lycra,,4,diagonal,26,open width,,,,,200,243
+74,3,32,20,single jersey,fleece,30/1,KIPAS,combed,45,33,30/1,KARESI,combed,40,29,10/1,SIRIKCIOGLI,carded,10,38,plain,21,tube with line,,,,,224,269
+75,31,32,28,single jersey,single,36/1,LIBAS,combed,29,95,20,TEKSMAR,lycra,,5,,,,,,single,26,open width,,,,,206,156
+76,28,32,28,single jersey,single,30/1,LIBAS,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,,202,130
+77,29,32,22,single jersey,single,27/1,NOPAS,combed,28,100,,,,,,,,,,,single,26,tube with line,,,,,209,125
+78,8,32,20,single jersey,fleece,36/1,MARTEKS,combed,44,31,36/1,MARTEKS,combed,36,26,20/2,KARACASU,carded,17,43,diagonal,21,tube with line,,,,,232,246
+79,34,32,28,single jersey,single,24/1,LIBAS,combed,30,100,,,,,,,,,,,single,26,tube with line,,,,,232,160
+80,18,36,18,double jersey,ribbed,30/1,LIBAS,combed,72,76,70/40,TEKSMAR,ecru guipure,68,20,70,HUAFON,lycra,,4,guipure ribbed,12,tube with line,,,,,192,377
+81,29,32,22,single jersey,single,30/1,ARKAN,combed,50,100,,,,,,,,,,,single,26,tube with line,,,,,224,117.2
+82,31,32,28,single jersey,single,36/1,LIBAS,combed,29,95,20,TEKSMAR,lycra,,5,,,,,,single,26,open width,,,,,190,143.4
+83,34,32,28,single jersey,single,30/1,MARTEKS,vortex gray melange50% polyester50%,27.5,100,,,,,,,,,,,single,26,tube with line,,,,,210,116.8
+84,1,32,20,single jersey,fleece,30/1,LIBAS,combed,44,40,70,TEKSMAR,super high polyester,30,11,10/1,BALSUYUM,anthracite melange,22,49,pique,21,tube with line,,,,,216,286.6
+85,2,32,20,single jersey,fleece,30/1,LIBAS,combed,44,40,70,TEKSMAR,super high polyester,30,11,10/1,BALSUYUM,anthracite melange,22,49,pique,21,tube with line,,,,,220,297.5
+86,8,32,20,single jersey,fleece,36/1,LIBAS,combed,44,32,36/1,LIBAS,combed,34,25,20/2,SIRIKCIOGLI,carded,16,43,diagonal,21,tube with line,,,,,216,252.2
+87,5,32,20,single jersey,fleece,28/1,MODASN,vortex gray melange,44,42,70,TEKSMAR,polyester,28,10,10/1,NOPAS,open end-gray melange ,17,48,plain,21,tube with line,,,,,212,292.1
+88,34,32,28,single jersey,single,30/1,NAZAR,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,,220,115.6
+89,17,36,17,double jersey,ribbed,36/1,LIBAS,combed,56,98,30,ANKAR,lycra,,2,,,,,,ribbed,17,tube with line,,,,,208,150.3
+90,17,36,17,double jersey,ribbed,28/1,MODASN,vortex gray melange,72,98,40,HUAFON,lycra,,2,,,,,,ribbed,17,tube with line,,,,,240,288.4
+91,28,32,28,single jersey,single,30/1,ARKAN,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,,232,127
+92,K1,30,26,single jersey,single,28/1,ARINC,combed,27,100,,,,,,,,,,,lacoste,,open width,,,,,211,156
+93,A1,26,28,single jersey,single,30/1,KIPAS,combed,25,100,,,,,,,,,,,lacoste,,open width,,,,,198,142.8
+94,A1,26,28,single jersey,single,30/1,KIPAS,combed,25,100,,,,,,,,,,,lacoste,,open width,,,,,200,138
+95,A1,26,28,single jersey,single,24/1,NIPAS,combed,29.5,100,,,,,,,,,,,lacoste,,open width,,,,,210,181
+96,4,32,20,single jersey,fleece,26/1,LIBAS,combed,45,38,100,TEKSMAR,polyester,29,12,8/1,LIBAS,open end-cotton-polyester,18,50,plain,21,tube with line,,,,,214,366.2
+97,Y1,32,13,single jersey,single,20/1,MARTEKS,vortex gray melange,53,25.25,20,MARTEKS,vortex gray melange,45,25.25,10/2,,open end-cotton-polyester,23,49.5,plain,,open width,,,,,214,450.3
+98,17,36,17,double jersey,ribbed,30/2,NOPAS,combed-cotton-polyester,72,98,40,HUAFON,lycra,,2,,,,,,ribbed,20,tube with line,,,,,226,323.3
+99,24,32,22,single jersey,fleece,30/1,LIBAS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,,,220,305.3
+100,22,32,22,single jersey,fleece,30/1,LIBAS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,,,210,269
+101,21,32,22,single jersey,fleece,30/1,LIBAS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,,,216,275.2
+102,7,32,20,single jersey,fleece,30/1,NOPAS,combed-cotton-polyester,45,41,70,KARESI,polyester,31.5,11,10/1,LIBAS,open end-cotton-polyester,18,48,diagonal,21,tube with line,,,,,212,261.7
+103,23,32,22,single jersey,fleece,30/1,LIBAS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,,,208,280.7
+104,3,32,20,single jersey,fleece,30/1,NOPAS,combed-cotton-polyester,47,36,30/1,NOPAS,combed-cotton-polyester,40,31,12/1,KUTUKCOGLE,open end-cotton-polyester,17,33,plain,21,tube with line,,,,,212,260
+105,2,32,20,single jersey,fleece,30/1,LIBAS,combed,44,40,70,TEKSMAR,polyester,30,11,10/1,BALSUYUM,anthracite melange,22,49,pique,21,tube with line,,,,,216,304.2
+106,1,32,20,single jersey,fleece,30/1,LIBAS,combed,44,40,70,TEKSMAR,polyester,30,11,10/1,BALSUYUM,anthracite melange,22,49,pique,21,tube with line,,,,,218,302.2
+107,6,32,20,single jersey,fleece,30/1,NOPAS,combed-cotton-polyester,45,41,70,KARESI,polyester,31.5,11,10/1,LIBAS,open end-cotton-polyester,18,48,diagonal,21,tube with line,,,,,212,261.7
+108,33,32,28,single jersey,single,40/1,NIPAS,combed,29,47.5,40/1,NIPAS,combed,,47.5,20,TEKSMAR,lycra,,5,S/Z twist single,26,open width,,,,,170,142.8
+109,30,32,22,single jersey,single,24/1,NAZAR,combed,34,64,20/1,NIPAS,combed,,32,40,HUAFON,lycra,,4,diagonal,26,open width,,,,,180,261.3
+110,3,32,20,single jersey,fleece,30/1,NOPAS,combed-cotton-polyester,47,36,30/1,NOPAS,combed-cotton-polyester,40,31,12/1,KUTUKCOGLE,open end-cotton-polyester,17,33,plain,21,tube with line,,,,,226,295.9
+111,17,36,17,double jersey,ribbed,28/1,NIPAS,combed,54,98,40,HUAFON,lycra,,2,,,,,,ribbed,17,tube with line,,,,,204,227.6
+112,18,36,18,double jersey,ribbed,30/1,LIBAS,combed,72,76,70/40,TEKSMAR,ecru guipure,68,20,70,HUAFON,lycra,,4,guipure ribbed,12,tube with line,,,,,186,418.1
+113,29,32,22,single jersey,single,28/1,LIBAS,combed,38,100,,,,,,,,,,,single,26,open width,,,,,210,211.4
+114,30,32,22,single jersey,single,24/1,NAZAR,combed,34,64,20/1,NIPAS,combed,,32,40,HUAFON,lycra,,4,diagonal,26,open width,,,,,190,277
+115,34,32,28,single jersey,single,28/1,BILICILER,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,,202,134.5
+116,18,36,18,double jersey,ribbed,30/1,LIBAS,combed,72,76,70/40,TEKSMAR,ecru guipure,48,20,70,HUAFON,lycra,,4,guipure ribbed,12,tube with line,,,,,198,383.7
+117,17,36,17,double jersey,ribbed,30/1,LIBAS,combed,56,98,30,ANKAR,lycra,,2,,,,,,ribbed,17,tube,,,,,200,190.9
+118,28,32,28,single jersey,single,26/1,LIBAS,combed,28.5,100,,,,,,,,,,,single,26,tube with line,,,,,210,140.9
+119,8,32,20,single jersey,fleece,36/1,LIBAS,combed,44,32,36/1,LIBAS,combed,34,25,20/2,ISIPLIK,carded,16,43,diagonal,21,tube with line,,,,,230,264
+120,28,32,28,single jersey,single,30/1,LIBAS,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,,204,142
+121,17,36,17,double jersey,ribbed,30/1,NAZAR,combed,72,97,40,HUAFON,lycra,,3,,,,,,ribbed,18,tube with line,,,,,225,328.1
+122,3,32,20,single jersey,fleece,30/1,NOPAS,combed-cotton-polyester,47,36,30/1,NOPAS,combed-cotton-polyester,40,31,12/1,KUTUKCOGLE,open end-cotton-polyester,17,33,plain,21,tube with line,,,,,215,265.7
+123,18,36,18,double jersey,ribbed,30/1,LIBAS,combed,72,76,70/40,TEKSMAR,ecru guipure,68,20,70,HUAFON,lycra,,4,guipure ribbed,12,tube with line,,,,,192,381.1
+124,29,32,22,single jersey,single,28/1,LIBAS,combed,38,100,,,,,,,,,,,single,26,open width,,,,,206,214
+125,30,32,22,single jersey,single,24/1,NAZAR,combed,34,64,20/1,NIPAS,combed,,32,40,HUAFON,lycra,,4,diagonal,26,open width,,,,,216,259.7
+126,30,32,22,single jersey,single,24/1,NAZAR,combed,34,64,20/1,NIPAS,combed,,32,40,HUAFON,lycra,,4,diagonal,26,open width,,,,,216,264.3
+127,3,32,20,single jersey,fleece,30/1,NOPAS,combed-cotton-polyester,47,36,30/1,NOPAS,combed-cotton-polyester,40,31,12/1,KUTUKCOGLE,open end-cotton-polyester,17,33,plain,21,tube with line,,,,,215,273.5
+128,Y1,32,13,single jersey,single,20/1,NIPAS,combed,50,25.8,20/1,NIPAS,combed,44,25.8,10/2,AKSAN,open end-cotton-polyester,22,48.4,plain,,open width,,,,,202,488
+129,Y1,32,13,single jersey,single,20/1,NIPAS,combed,50,25.8,20/1,NIPAS,combed,44,25.8,10/2,AKSAN,open end-cotton-polyester,22,48.6,plain,,open width,,,,,201,479
+130,Y1,32,13,single jersey,single,20/1,NIPAS,combed,50,25.8,20/1,NIPAS,combed,44,25.8,10/2,AKSAN,open end-cotton-polyester,22,48.6,plain,,open width,,,,,214,476
+131,Y1,32,13,single jersey,single,20/1,NIPAS,combed,50,25.8,20/1,NIPAS,combed,44,25.8,10/2,AKSAN,open end-cotton-polyester,22,48.6,plain,,open width,,,,,214,473.3
+132,Y1,32,13,single jersey,single,20/1,NIPAS,combed,50,25.8,20/1,NIPAS,combed,44,25.8,10/2,AKSAN,open end-cotton-polyester,22,48.6,plain,,open width,,,,,200,490
+133,Y2,34,20,single jersey,single,24/2,KIPAS,open end-cotton-polyester,38,100,,,,,,,,,,,single,,tube with line,2525.5,2493.1,,,226,266.1
+134,A2,32,13,single jersey,single,20/1,NIPAS,combed,50,25.8,20/1,NIPAS,combed,44,25.8,10/2,AKSAN,open end-cotton-polyester,22,48.6,plain,,open width,,,,,208,449
+135,A3,24,28,single jersey,single,27/1,ARKAN,combed,24,100,,,,,,,,,,,lacoste,,open width,,,,,182,186.5
+136,A4,32,28,single jersey,single,28/1,ARKAN,combed,28,100,,,,,,,,,,,single,,open width,,,,,220,137
+137,G2,24,28,single jersey,single,27/1,ARKAN,combed,24,100,,,,,,,,,,,lacoste,,open width,,,,,200,184
+138,G2,24,28,single jersey,single,27/1,ARKAN,combed,24,100,,,,,,,,,,,lacoste,,open width,,,,,214,182.3
+139,G2,24,28,single jersey,single,27/1,ARKAN,combed,24,100,,,,,,,,,,,lacoste,,open width,,,,,210,181.3
+140,G2,24,28,single jersey,single,27/1,ARKAN,combed,24,100,,,,,,,,,,,lacoste,,open width,,,,,210,187
+141,Y2,34,20,single jersey,single,24/2,KIPAS,open end-cotton-polyester,38,100,,,,,,,,,,,single,,tube with line,,,,,222,254
+142,A3,24,28,single jersey,single,27/1,ARKAN,combed,24,100,,,,,,,,,,,lacoste,,open width,,,,,200,181.6
+143,Y1,32,13,single jersey,single,20/1,NIPAS,combed,50,25.8,20/1,NIPAS,combed,44,25.8,10/2,AKSAN,open end-cotton-polyester,22,48.4,plain,,open width,,,,,210,498.5
+144,A2,32,13,single jersey,single,20/1,NIPAS,combed,50,25.8,20/1,NIPAS,combed,44,25.8,10/2,AKSAN,open end-cotton-polyester,22,48.4,plain,,open width,,,,,206,474
+145,A2,32,13,single jersey,single,20/1,NIPAS,combed,50,25.8,20/1,NIPAS,combed,44,25.8,10/2,AKSAN,open end-cotton-polyester,22,48.4,plain,,open width,,,,22.65,202,482
+146,A2,32,13,single jersey,single,20/1,NIPAS,combed,50,25.8,20/1,NIPAS,combed,44,25.8,10/2,AKSAN,open end-cotton-polyester,22,48.4,plain,,open width,,,,26.45,205,530
+147,1,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,POL,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,,23.8,212,296.2
+148,1,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,POL,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,,25,212,292.8
+177,1,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,POL,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,,25.35,222,289
+149,2,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,POL,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,,27.45,212,288.2
+151,Y1,32,13,single jersey,single,20/1,NIPAS,combed,50,25.8,20/1,NIPAS,combed,44,25.8,10/2,AKSAN,open end-cotton-polyester,22,48.4,plain,,open width,,,,22.75,208,498
+152,K1,30,26,single jersey,single,28/1,ARINC,combed,27,100,,,,,,,,,,,lacoste,,open width,,,,23.05,216,155
+153,Y1,32,13,single jersey,single,20/1,NIPAS,combed,50,25.8,20/1,NIPAS,combed,44,25.8,10/2,AKSAN,open end-cotton-polyester,22,48.4,plain,,open width,,,,22.6,204,506
+154,G2,24,28,single jersey,single,27/1,ARKAN,combed,24,100,,,,,,,,,,,lacoste,,open width,,,,19.75,214,179
+155,G2,24,28,single jersey,single,27/1,ARKAN,combed,24,100,,,,,,,,,,,lacoste,,open width,,,,23.75,214,169
+156,G2,24,28,single jersey,single,27/1,ARKAN,combed,24,100,,,,,,,,,,,lacoste,,open width,,,,18.95,214,180
+157,E1,30,28,single jersey,single,30/1,NAZAR,combed,25.5,100,,,,,,,,,,,lacoste,,open width,,,,23,230,159.9
+158,N1,32,13,single jersey,fleece,20/1,MARTEKS,vortex gray melange50% polyester50%POL,52,25.25,20/1,MARTEKS,vortex gray melange 50%combed 50%polyester,46,25.25,10/2,AKSAN,open end-cotton-polyester,24,49.5,plain,,open width,,,,,193,429
+159,N1,32,13,single jersey,fleece,24/1,NAZAR,combed,54,23.6,24/1,NAZAR,combed,49,23.6,10/2,AKSAN,open end-cotton-polyester,24,52.8,plain,,open width,,,,,205.5,363
+160,N1,32,13,single jersey,fleece,24/1,NAZAR,combed,54,23.6,24/1,NAZAR,combed,49,23.6,10/2,AKSAN,open end-cotton-polyester,24,52.8,plain,,open width,,,,22.25,204,379.6
+161,N1,32,13,single jersey,fleece,24/1,NAZAR,combed,54,23.6,24/1,NAZAR,combed,49,23.6,10/2,AKSAN,open end-cotton-polyester,24,52.8,plain,,open width,,,,,198,352
+162,N1,32,13,single jersey,fleece,24/1,MARTEKS,vortex gray melange50% polyester50%POL,54,23.85,24/1,MARTEKS,vortex gray melange 50%combed 50%polyester,51,23.85,10/2,AKSAN,open end-cotton-polyester,24,52.3,plain,,open width,,,,24.05,203,377
+163,5,32,20,single jersey,fleece,28/1 ,MODASN,vortex gray melange,44,42,70,TEKSMAR,polyester,28,10,10/1,NOPAS,open end-gray melange ,17,48,plain,21,tube with line,,,,24.55,208,304.1
+164,3,32,20,single jersey,fleece,30/1,NOPAS,combed-cotton-polyester,47,36,30/1,NOPAS,combed-cotton-polyester,40,31,12/1,KUTUKCOGLE,open end-cotton-polyester,17,33,plain,21,tube with line,,,,24.95,214,266.1
+165,3,32,20,single jersey,fleece,30/1,NOPAS,combed-cotton-polyester,47,36,30/1,NOPAS,combed-cotton-polyester,40,31,12/1,KUTUKCOGLE,open end-cotton-polyester,17,33,plain,21,tube with line,,,,24.25,214,286
+166,21,32,22,single jersey,fleece,30/1,LIBAS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,,23.5,218,280.1
+167,18,36,18,double jersey,ribbed,30/2,LIBAS,combed,72,76,70/40,TEKSMAR,ecru guipure,68,20,70,HUAFON,lycra,,4,guipure ribbed,12,tube with line,,,,26.95,168,414.8
+168,23,32,22,single jersey,fleece,30/1,LIBAS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,,24.2,224,283
+169,30,32,22,single jersey,single,24/1,NAZAR,combed,34,64,20/1,SIRIKCIOGLI,carded,,32,40,HUAFON,lycra,,4,diagonal,26,open width,,,,20.55,195,265.8
+170,30,32,22,single jersey,single,24/1,NAZAR,combed,34,64,20/1,SIRIKCIOGLI,carded,,32,40,HUAFON,lycra,,4,diagonal,26,open width,,,,20.55,195,252.6
+171,17,36,17,double jersey,ribbed,28/1,MODASN,vortex gray melange,72,98,40,HUAFON,lycra,,2,,,,,,ribbed,18,tube with line,,,,26.7,226,321.7
+172,6,32,20,single jersey,fleece,28/1,MODASN,vortex gray melange,44,42,70,TEKSMAR,polyester,28,10,10/1,NOPAS,open end-gray melange ,17,48,plain,21,tube with line,,,,21.4,212,300.7
+173,29,32,22,single jersey,single,28/2,NIPAS,combed,38,100,,,,,,,,,,,single,26,open width,,,,24.35,200,210
+174,29,32,22,single jersey,single,28/2,NIPAS,combed,38,100,,,,,,,,,,,single,26,open width,,,,23.15,200,210.9
+175,31,32,28,single jersey,single,28/1,NIPAS,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,18,204,139
+176,17,36,17,double jersey,ribbed,28/2,MODASN,vortex gray melange,72,98,40,HUAFON,lycra,,2,,,,,,ribbed,18,tube with line,,,,24.65,230,325
+150,2,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,,25.55,212,308.2
+178,2,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,,26.7,222,298.3
+197,2,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,,26.2,220,292
+180,3,32,20,single jersey,fleece,30/1,NOPAS,combed-cotton-polyester,47,36,30/1,NOPAS,combed-cotton-polyester,40,31,12/1,KUTUKCOGLE,open end-cotton-polyester,17,33,plain,21,tube with line,,,,26.7,220,257.1
+181,21,32,22,single jersey,fleece,30/1,NIPAS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,,23.6,214,266.1
+182,23,32,22,single jersey,fleece,30/1,NIPAS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,,24.8,220,286.3
+183,24,32,22,single jersey,fleece,30/1,NIPAS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,,24.2,220,296.7
+184,5,32,20,single jersey,fleece,28/1,MODASN,vortex gray melange,44,42,70,TEKSMAR,polyester,28,10,10/1,NOPAS,open end-gray melange ,17,48,pique,21,tube with line,,,,25.3,211,299.4
+185,6,32,20,single jersey,fleece,28/1,MODASN,vortex gray melange,44,42,70,TEKSMAR,polyester,28,10,10/1,NOPAS,open end-gray melange ,17,48,pique,21,tube with line,,,,26.85,216,297.5
+186,17,36,17,double jersey,ribbed,30/2,NIPAS,combed,72,98,40,HUAFON,lycra,,2,,,,,,ribbed,20,tube with line,,,,26.5,225,320.1
+187,18,36,18,double jersey,ribbed,30/2,NIPAS,combed,76,76,70/40,TEKSMAR,ecru guipure,68,20,70,HUAFON,lycra,,4,guipure ribbed,12,tube with line,3242.5,3151.6,,26.9,162,418.9
+188,32,32,28,single jersey,single,36/1,NIP-17,combed,29,95,20,TEKSMAR,lycra,,5,,,,,,single,26,open width,,,,28.25,173,138.4
+189,30,32,22,single jersey,single,24/1,NAZAR,combed,34,64,20/1,SIRIKCIOGLI,carded,,32,40,HUAFON,lycra,,4,diagonal,26,open width,,,,20.65,190,256.8
+190,29,32,22,single jersey,single,24/1,NAZAR,combed,34,64,20/1,SIRIKCIOGLI,carded,,32,40,HUAFON,lycra,,4,plain,26,open width,,,,25.6,210,193.8
+191,30,32,22,single jersey,single,24/1,NAZAR,combed,34,64,20/1,SIRIKCIOGLI,carded,,32,40,TEKSMAR,lycra,,4,diagonal,26,open width,,,,20.7,196,256
+192,24,32,22,single jersey,fleece,30/1,LIBAS,combed,44,40,70,TEKSMAR,ecru guipure,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,,24.25,214,264
+193,3,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,,25.6,218,267
+194,17,36,17,double jersey,ribbed,30/1,LIBAS,combed,72,98,40,HUAFON,lycra,,2,,,,,,ribbed,18,tube with line,,,,25.3,231,326
+195,31,32,28,single jersey,single,28/1,LIBAS,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,27.2,190,125
+196,21,32,22,single jersey,fleece,30/1,LIBAS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,,23.6,210,268
+179,4,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,,26.1,222,270.6
+198,18,36,18,double jersey,ribbed,30/1,LIBAS,combed,72,76,70/40,TEKSMAR,ecru guipure,68,20,70,HUAFON,lycra,,4,guipure ribbed,12,tube with line,3242.5,3151.6,,27.05,186,402
+199,G1,26,28,single jersey,single,28/1,NIPAS,combed,25,100,,,,,,,,,,,lacoste,,tube with line,,,,20.3,204,153
+200,G2,24,28,single jersey,single,27/1,ARKAN,combed,24,100,,,,,,,,,,,lacoste,,open width,,,,24.95,214,183.8
+201,G2,24,28,single jersey,single,27/1,ARKAN,combed,24,100,,,,,,,,,,,lacoste,,open width,,,,17.45,208,179.2
+202,G1,26,28,single jersey,single,28/1,NIPAS,combed,25,100,,,,,,,,,,,lacoste,,tube with line,,,,21,200,152.3
+203,N1,32,13,single jersey,fleece,20/1,MARTEKS,vortex gray melange50% polyester50%POL,52,25.25,20/1,MARTEKS,vortex gray melange 50%combed 50%polyester,46,25.25,10/2,AKSAN,open end-cotton-polyester,24,49.5,plain,,open width,,,,24.1,203,445.9
+204,N1,32,13,single jersey,fleece,20/1,MARTEKS,vortex gray melange50% polyester50%POL,52,25.25,20/1,MARTEKS,vortex gray melange 50%combed 50%polyester,46,25.25,10/2,AKSAN,open end-cotton-polyester,24,49.5,plain,,open width,,,,23.15,202,471.2
+205,N1,32,13,single jersey,fleece,24/1,MARTEKS,vortex gray melange50% polyester50%POL,54,23.85,24/1,MARTEKS,vortex gray melange 50%combed 50%polyester,51,23.85,10/2,AKSAN,open end-cotton-polyester,24,52.3,plain,,open width,,,,,205,364.2
+206,Y1,32,13,single jersey,single,20/1,NIPAS,combed,50,25.8,20/1,NIPAS,combed,44,25.8,10/2,AKSAN,open end-cotton-polyester,22,48.4,plain,,open width,,,,22.8,208,501.5
+207,1,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1650,25.9,230,298.5
+208,2,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1750,27,230,297.6
+209,3,32,20,single jersey,fleece,30/1,NAZAR,combed,44,37,30/1,SIRIKCIOGLI,carded,39.5,33,14/1,LIBAS,carded,17,30,plain,21,tube with line,,,,27.5,230,309.4
+210,4,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1750,27.2,230,284.5
+211,4,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1750,25.65,230,295.1
+212,1,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1650,26.1,230,309.6
+213,21,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,23.9,220,276.2
+214,21,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,23.4,206,275.6
+215,22,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,1700,25.3,220,279
+216,24,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,22.95,212,317.8
+217,18,36,18,double jersey,ribbed,30/1,MARTEKS,vortex gray melange50% polyester50%POL,76,76,70/40,TEKSMAR,ecru guipure,68,20,70,HUAFON,lycra,,4,guipure ribbed,12,tube with line,3242.5,3151.6,1750,26.95,200,377
+218,18,36,18,double jersey,ribbed,30/1,MARTEKS,vortex gray melange50% polyester50%POL,76,76,70/40,TEKSMAR,ecru guipure,68,20,70,HUAFON,lycra,,4,guipure ribbed,12,tube with line,3242.5,3151.6,1750,28.75,174,390.7
+219,28,32,28,single jersey,single,28/1,LIBAS,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,1550,23.3,220,136.9
+220,34,32,28,single jersey,single,28/1,LIBAS,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,19,218,119.6
+221,34,32,28,single jersey,single,28/1,LIBAS,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,18.75,204,121.5
+222,1,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1650,26.25,210,304.1
+223,1,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1650,25.95,212,303
+224,2,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1750,24.45,214,300.8
+225,2,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1750,27.05,215,301
+226,4,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1750,28.4,212,278
+227,4,32,20,single jersey,fleece,30/1,KIPAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1750,26.1,212,293
+228,21,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,22.5,224,268
+229,21,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,23.8,224,269
+230,22,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,1700,25.65,210,276.6
+231,22,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,1700,25.55,224,269
+232,23,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,24.3,204,283.1
+233,23,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,24.2,210,272
+234,24,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,24.3,212,296
+235,24,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,KUTUKCOGLE,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,24.35,224,311.1
+236,29,32,22,single jersey,single,30/1,KIPAS,open end-cotton-polyester,38,100,,,,,,,,,,,single,26,open width,,,,27.45,218,203.9
+237,29,32,22,single jersey,single,30/1,KIPAS,open end-cotton-polyester,38,100,,,,,,,,,,,single,26,open width,,,,25.3,210,196
+238,30,32,22,single jersey,single,24/1,NAZAR,combed,34,64,20/1,SIRIKCIOGLI,carded,,32,40,TEKSMAR,lycra,,4,diagonal,26,open width,,,1501,20.1,195,273.6
+239,30,32,22,single jersey,single,24/1,NAZAR,combed,34,64,20/1,SIRIKCIOGLI,carded,,32,40,TEKSMAR,lycra,,4,diagonal,26,open width,,,1501,19.6,202,241.9
+240,31,32,28,single jersey,single,36/1,NIPAS,combed,29,95,20,FEYZAN,lycra,,5,,,,,,single,26,open width,,,1800,25.4,184,162
+241,32,32,28,single jersey,single,36/1,NIPAS,combed,29,95,20,FEYZAN,lycra,,5,,,,,,single,26,open width,,,,24.8,182,141
+242,33,32,28,single jersey,single,36/1,NIPAS,combed,29,95,20,FEYZAN,lycra,,5,,,,,,single,26,open width,,,,25.75,192,160
+243,17,36,17,double jersey,ribbed,30/2,MARTEKS,combed,72,98,40,HUAFON,lycra,,2,,,,,,ribbed,20,tube with line,,,750,26.2,208,308
+244,17,36,17,double jersey,ribbed,30/2,MARTEKS,combed,72,98,40,HUAFON,lycra,,2,,,,,,ribbed,20,tube with line,,,750,26,220,337
+245,18,36,18,double jersey,ribbed,30/2,MARTEKS,vortex gray melange50% polyester50%POL,72,76,70/40,TEKSMAR,ecru guipure,68,20,70,HUAFON,lycra,,4,guipure ribbed,12,tube with line,3242.5,3151.6,1750,26.85,196,343
+246,8,32,20,single jersey,fleece,36/1,LIBAS,combed,44,33,36/1,LIBAS,combed,34,25,20/2,ISIPLIK,carded,16,43,diagonal,21,tube with line,,,,25.9,220,263.4
+247,31,32,28,single jersey,single,30/1,BELSLER,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,1800,25.2,204,126.2
+248,19,36,18,double jersey,ribbed,20/1,LIBAS,combed,28,98,40,HUAFON,lycra,,2,,,,,,interlock 2*1,17,tube with line,,,1500,15.4,138,332.5
+249,5,32,20,single jersey,fleece,30/1,KIPAS,combed,44,45,70,TEKSMAR,polyester,29.5,12,12/1,KUTUKCOGLE,open end-cotton-polyester,17,43,plain,21,tube with line,702.35,676.7,1850,22.15,200,269.2
+250,5,32,20,single jersey,fleece,30/1,KIPAS,combed,44,45,70,TEKSMAR,polyester,29.5,12,12/1,KUTUKCOGLE,open end-cotton-polyester,17,43,plain,21,tube with line,702.35,676.7,1850,22.9,204,271.2
+251,6,32,20,single jersey,fleece,30/1,KIPAS,combed,44,45,70,TEKSMAR,polyester,29.5,12,12/1,KUTUKCOGLE,open end-cotton-polyester,17,43,plain,21,tube with line,,,1850,22.45,202,257.2
+252,6,32,20,single jersey,fleece,30/1,KIPAS,combed,44,45,70,TEKSMAR,polyester,29.5,12,12/1,KUTUKCOGLE,open end-cotton-polyester,17,43,plain,21,tube with line,,,1850,23.15,204,265.6
+253,1,32,20,single jersey,fleece,30/1,LIBAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1650,24.5,218,306.1
+254,1,32,20,single jersey,fleece,30/1,LIBAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1650,25.5,220,298.5
+255,2,32,20,single jersey,fleece,30/1,LIBAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1750,26.55,218,295.2
+256,2,32,20,single jersey,fleece,30/1,LIBAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1750,26.9,222,303.6
+257,4,32,20,single jersey,fleece,30/1,LIBAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1750,25.9,218,285.9
+258,4,32,20,single jersey,fleece,30/1,LIBAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1750,26.9,220,283.6
+259,21,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,LIBAS,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,23.4,212,267
+260,21,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,LIBAS,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,22.75,224,275.8
+261,22,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,LIBAS,open end-cotton-polyester,22,49,pique,21,tube with line,,,1700,24.1,212,278.2
+262,22,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,LIBAS,open end-cotton-polyester,22,49,pique,21,tube with line,,,1700,24.8,212,277.3
+263,23,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,LIBAS,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,24.1,212,284.2
+264,23,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,LIBAS,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,24.45,224,267.3
+265,24,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,LIBAS,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,24.3,212,310.7
+266,24,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,LIBAS,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,24.1,224,294.1
+267,3,32,20,single jersey,fleece,30/1,MEM,combed-cotton-polyester,47,36,30/1,MEM,combed-cotton-polyester,31,31,12/1,LIBAS,open end-cotton-polyester,17,33,plain,21,tube with line,645.3,615.25,,25.15,220,269.8
+268,E1,30,28,single jersey,single,30/1,NAZAR,combed,25.5,100,,,,,,,,,,,lacoste,,open width,,,,17.9,200,155.1
+269,E2,32,28,single jersey,fleece,28/1,NAZAR,combed,30,77.4,100,,polyester,,16.1,30,,lycra,,6.5,diagonal,,open width,,,,23.5,205,264.3
+270,E1,30,28,single jersey,single,30/1,NAZAR,combed,25.5,100,,,,,,,,,,,lacoste,,open width,,,,21.9,217,148.1
+271,E2,32,28,single jersey,fleece,28/1,NAZAR,combed,30,77.4,100,,polyester,,16.1,30,,lycra,,6.5,diagonal,,open width,,,,25.8,207,226
+272,E2,32,28,single jersey,fleece,28/1,NAZAR,combed,30,77.4,100,,polyester,,16.1,30,,lycra,,6.5,diagonal,,open width,,,,26.4,211,223
+273,E2,32,28,single jersey,fleece,28/1,NAZAR,combed,30,77.4,100,,polyester,,16.1,30,,lycra,,6.5,diagonal,,open width,,,,25.65,212,267
+274,E2,32,28,single jersey,fleece,28/1,NAZAR,combed,30,77.4,100,,polyester,,16.1,30,,lycra,,6.5,diagonal,,open width,,,,23.15,205,258.4
+275,A2,32,13,single jersey,single,20/1,NIPAS,combed,50,25.8,20/1,NIPAS,combed,44,25.8,10/2,,open end-cotton-polyester,22,48.4,plain,,open width,,,,21.15,201,505.5
+276,28,32,28,single jersey,single,28/1,LIBAS,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,1550,20.3,220,105
+277,30,32,22,single jersey,single,24/1,NAZAR,combed,34,64,20/1,SIRIKCIOGLI,carded,,32,40,TEKSMAR,lycra,,4,diagonal,26,open width,,,1500,23.05,195,280.6
+278,30,32,22,single jersey,single,24/1,NAZAR,combed,34,64,20/1,SIRIKCIOGLI,carded,,32,40,TEKSMAR,lycra,,4,diagonal,26,open width,,,1500,19.7,187,259.2
+279,31,32,28,single jersey,single,36/1,LIBAS,combed,27,100,,,,,,,,,,,single,26,tube with line,,,1800,22.95,206,105.3
+280,32,32,28,single jersey,single,36/1,LIBAS,combed,29,95,20,FEYZAN,lycra,,5,,,,,,single,26,open width,,,,25.75,186,174.2
+281,32,32,28,single jersey,single,36/1,LIBAS,combed,29,95,20,FEYZAN,lycra,,5,,,,,,single,26,open width,,,,24.5,187,197.4
+282,34,32,28,single jersey,single,36/1,LIBAS,combed,29,95,20,FEYZAN,lycra,,5,,,,,,single,26,open width,,,,26.55,175,172.8
+283,17,36,17,double jersey,ribbed,30/1,MARTEKS,combed,52,100,,,,,,,,,,,ribbed,20,tube with line,,,,25.95,238,138
+284,18,36,18,double jersey,ribbed,30/1,MARTEKS,vortex gray melange50% polyester50%POL,72,76,70/40,TEKSMAR,ecru guipure,68,20,70,HUAFON,lycra,,4,guipure ribbed,12,tube with line,3242.5,3151.6,1750,24.35,190,399
+285,19,36,18,double jersey,ribbed,28/1,NAZAR,combed,36,98,40,HUAFON,lycra,,2,,,,,,interlock 2*1,17,tube with line,,,,24.35,180,289.9
+286,19,36,18,double jersey,ribbed,28/1,NAZAR,combed,36,98,40,HUAFON,lycra,,2,,,,,,interlock 2*1,17,tube with line,,,,26.6,172,286.8
+287,33,32,28,single jersey,single,36/1,LIBAS,combed,29,95,20,FEYZAN,lycra,,5,,,,,,single,26,open width,,,,25.65,187,164.3
+288,33,32,28,single jersey,single,36/1,LIBAS,combed,29,95,20,FEYZAN,lycra,,5,,,,,,single,26,open width,,,,26.6,190,165.9
+289,1,32,20,single jersey,fleece,30/1,LIBAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1650,25.5,220,303
+290,2,32,20,single jersey,fleece,30/1,LIBAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1750,27.05,216,297.9
+291,4,32,20,single jersey,fleece,30/1,LIBAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1750,26,212,276
+292,32,32,28,single jersey,single,36/1,LIBAS,combed,29,95,20,FEYZAN,lycra,,5,,,,,,single,26,open width,,,,25.35,178,139.6
+293,33,32,28,single jersey,single,36/1,LIBAS,combed,29,95,20,FEYZAN,lycra,,5,,,,,,single,26,open width,,,,25.8,188,127.2
+294,34,32,28,single jersey,single,36/1,LIBAS,combed,29,95,20,FEYZAN,lycra,,5,,,,,,single,26,open width,,,,25.7,177,137.7
+295,21,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,NIPAS,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,23.85,212,274.9
+296,22,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,NIPAS,open end-cotton-polyester,22,49,pique,21,tube with line,,,1700,24.8,210,281
+297,23,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,NIPAS,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,24.6,208,273
+298,24,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,NIPAS,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,24.55,214,300.1
+299,18,36,18,double jersey,ribbed,30/1,MARTEKS,vortex gray melange50% polyester50%POL,72,76,70/40,TEKSMAR,ecru guipure,68,20,70,HUAFON,lycra,,4,guipure ribbed,12,tube with line,3242.5,3151.6,,26.75,196,374.9
+300,17,36,17,double jersey,ribbed,30/1,MARTEKS,combed,52,100,,,,,,,,,,,ribbed,20,tube with line,,,,24,234,137
+301,30,32,22,single jersey,single,24/1,NAZAR,combed,34,64,20/1,SIRIKCIOGLI,carded,,32,40,TEKSMAR,lycra,,4,diagonal,26,open width,,,1500,21.4,200,244.1
+302,5,32,20,single jersey,fleece,20/1,LIBAS,combed,48,100,,,,,,,,,,,single,21,tube with line,,,1850,23.35,220,268.6
+303,1,32,20,single jersey,fleece,30/1,LIBAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1650,25.7,220,296.4
+304,2,32,20,single jersey,fleece,30/1,LIBAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1750,27.05,220,294.8
+305,4,32,20,single jersey,fleece,30/1,LIBAS,combed,44,36,70,TEKSMAR,polyester,31,10,10/1,BALSUYUM,anthracite melange,22,54,pique,21,tube with line,,,1750,27.3,220,289.4
+306,34,32,28,single jersey,single,36/1,LIBAS,combed,29,95,20,FEYZAN,lycra,,5,,,,,,single,26,open width,,,,26.45,177,153.8
+307,32,32,28,single jersey,single,36/1,LIBAS,combed,29,95,20,FEYZAN,lycra,,5,,,,,,single,26,open width,,,,25.85,187,171.6
+308,33,32,28,single jersey,single,36/1,LIBAS,combed,29,95,20,FEYZAN,lycra,,5,,,,,,single,26,open width,,,,25.8,183,150.4
+309,28,32,28,single jersey,single,30/1 ,NAZAR,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,22.6,226,141
+310,28,32,28,single jersey,single,30/1 ,NAZAR,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,25.3,200,125.6
+311,32,32,28,single jersey,single,36/1,LIBAS,combed,29,95,20,FEYZAN,lycra,,5,,,,,,single,26,open width,,,,25.25,185,164
+312,33,32,28,single jersey,single,36/1,LIBAS,combed,29,95,20,FEYZAN,lycra,,5,,,,,,single,26,open width,,,,23.85,190,158
+313,23,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,NIPAS,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,27.1,216,297.7
+314,23,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,NIPAS,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,25,220,306.1
+315,24,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,NIPAS,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,24.85,220,307.7
+316,24,32,22,single jersey,fleece,30/1,MARTEKS,combed,44,40,70,TEKSMAR,polyester,30,11,12/1,NIPAS,open end-cotton-polyester,22,49,pique,21,tube with line,,,1600,27.55,216,297
+317,17,36,17,double jersey,ribbed,30/1,LIBAS,combed,72,98,40,TEKSMAR,lycra,,2,,,,,,ribbed,20,tube with line,,,,26.25,222,286
+318,17,36,17,double jersey,ribbed,30/1,MARTEKS,combed-cotton-polyester,72,98,40,CREORA,lycra,,2,,,,,,ribbed,20,tube with line,,,,24.4,220,292
+319,28,32,28,single jersey,single,30/1,NAZAR,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,,202,121.1
+320,18,36,18,double jersey,ribbed,30/1,KIPAS,combed,72,92,70,HUAFON,lycra,,8,,,,,,ribbed,17,tube with line,,,,,164,269.3
+321,8,32,20,single jersey,fleece,36/1,LIBAS,combed,44,32,36/1,LIBAS,combed,34,25,20/2,ISIPLIK,carded,16,43,diagonal,21,tube with line,,,,,208,264.3
+322,31,32,28,single jersey,single,30/1,LIBAS,combed,27.5,100,,,,,,,,,,,single,26,tube with line,,,,25.75,220,123.6
+323,30,32,22,single jersey,single,30/1,LIBAS,combed,28,50,30/1,MARTEKS,combed,,50,,,,,,flame single,26,tube with line,,,,21.35,210,124.1
+324,34,32,28,single jersey,single,36/1,LIBAS,combed,29,95,20,FEYZAN,lycra,,5,,,,,,single,26,open width,,,,25.65,180,158.5
